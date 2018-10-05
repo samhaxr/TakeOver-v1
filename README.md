@@ -20,6 +20,6 @@ There are some fingerprints should be analysed when service is deleted and DNS e
 
 Security researcher @edoverflow has listed all services and their fingerprints. For more detail visit https://github.com/EdOverflow/can-i-take-over-xyz
 
-## Tutorial
+# Youtube
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vpCI8foxP00/0.jpg)](https://www.youtube.com/watch?v=vpCI8foxP00)
