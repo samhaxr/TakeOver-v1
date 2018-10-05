@@ -16,7 +16,7 @@ There are a lot of sites having thousands of subdomain and it’s really hard to
 
 There are some fingerprints should be analysed when service is deleted and DNS entry remains as it is. The attacker get this error when visiting vulnerable subdomain such as “There isn’t a Github Pages site here.” or view below image for more detail.
 
-![Alt text](/53D457E2-57EC-4217-89EA-9A6DA84E1ACE.png?raw=true "Optional Title")
+![Alt text](/53D457E2-57EC-4217-89EA-9A6DA84E1ACE.png?raw=true "TakeOver-v1" )
 
 Security researcher @edoverflow has listed all services and their fingerprints. For more detail visit https://github.com/EdOverflow/can-i-take-over-xyz
 
