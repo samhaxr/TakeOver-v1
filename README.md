@@ -22,4 +22,4 @@ Security researcher @edoverflow has listed all services and their fingerprints. 
 
 ## Tutorial
 
-https://youtube.com/watch?v=vpCI8foxP00
+https://www.youtube.com/watch?v=vpCI8foxP00&feature=youtu.be
