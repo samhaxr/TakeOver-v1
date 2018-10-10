@@ -22,4 +22,4 @@ Security researcher @edoverflow has listed all services and their fingerprints. 
 
 # Youtube
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vpCI8foxP00/0.jpg)](https://www.youtube.com/watch?v=vpCI8foxP00)
+[![Takeover-v1](https://img.youtube.com/vi/vpCI8foxP00/0.jpg)](https://www.youtube.com/watch?v=vpCI8foxP00)
